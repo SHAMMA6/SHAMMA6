@@ -8,4 +8,6 @@
 
 🔹 I thrive on solving complex problems, optimizing performance, and ensuring seamless communication between services. API security, authentication, and scalability? Count me in!
 
-🌱 Always Learning....
+<h1>🌱 Always Learning...</h1>
+
+<h2>🔄 Adapting, Improving, and Growing Every Day...</h2>
