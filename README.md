@@ -1,6 +1,6 @@
-👋 Hey there, I'm Yousef Abdel-Fattah (SHAMMA6!)
+👋 Hey there, I'm Yousef Abdel-Fattah
 
-🔹 Backend Developer | 💡Microservices & SOA  | 🏗️ Scalable Systems? Count me in!
+🔹 🛠️ Software Engineer | 💡Microservices & SOA  | 🏗️ Scalable Systems? Count me in!
 
 💙 I have an undeniable love for software development, especially when it comes to backend engineering. The thrill of designing robust, scalable, and efficient systems keeps me going every day!
 
@@ -8,6 +8,5 @@
 
 🔹 I thrive on solving complex problems, optimizing performance, and ensuring seamless communication between services. API security, authentication, and scalability.
 
+<h2>💡 Curious Mind, Endless Possibilities</h2>
 <h2>🌱 Always Learning...</h2>
-
-<h2>🔄 Adapting, Improving, and Growing Every Day...</h2>
