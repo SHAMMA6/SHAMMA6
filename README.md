@@ -9,4 +9,4 @@
 🔹 I thrive on solving complex problems, optimizing performance, and ensuring seamless communication between services. API security, authentication, and scalability.
 
 <h2>💡 Curious Mind, Endless Possibilities</h2>
-<h2>🌱 Always Learning...</h2>
+<h2>🌱 Always Learning . . . </h2>
