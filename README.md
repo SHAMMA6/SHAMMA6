@@ -1,6 +1,6 @@
 👋 Hey there, I'm Yousef Abdel-Fattah
 
-🔹 🛠️ Software Engineer | 💡Microservices & SOA  | 🏗️ Scalable Systems? ...Count me in!
+ 🛠️ Software Engineer | 💡Microservices & SOA  | 🏗️ Scalable Systems? ...Count me in!
 
 💙 I have an undeniable love for software development, especially when it comes to backend engineering. The thrill of designing robust, scalable, and efficient systems keeps me going every day!
 
